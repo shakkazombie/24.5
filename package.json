@@ -1,0 +1,17 @@
+{
+  "name": "24.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateDistancePoints.js",
+  "scripts": {
+    "style": "mocha calculateStylePoints.test.js",
+    "distance": "mocha calculateDistancePoints.test.js",
+    "total": "mocha calculateTotalPoints.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
